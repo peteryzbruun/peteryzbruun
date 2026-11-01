@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Abstract coral profile banner representing connected systems, music, design, and chess" src="./assets/profile-banner.png" width="100%" />
+</p>
+
 <div align="center">
 
 # Peter Y.Z. Bruun
@@ -24,13 +28,25 @@ A growing portfolio of reusable AI skills and workflows.
 
 ## Tools and platforms
 
+### Knowledge systems
+
 <p>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img alt="Raycast" src="https://img.shields.io/badge/Raycast-FF6363?style=for-the-badge&logo=raycast&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+### AI workflows
+
+<p>
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+</p>
+
+### Design and productivity
+
+<p>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Raycast" src="https://img.shields.io/badge/Raycast-FF6363?style=for-the-badge&logo=raycast&logoColor=white" />
 </p>
 
 ## Current interests
