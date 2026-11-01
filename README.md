@@ -1,5 +1,3 @@
-<!-- Local Badge Studio playground draft. This file has not been published to GitHub. -->
-
 <div align="center">
 
 # Peter Y.Z. Bruun
@@ -23,7 +21,6 @@ Building practical systems for AI-assisted productivity, digital workflows, auto
 ### [AI Skills Portfolio](https://github.com/peteryzbruun/pyzb-agent-skills-portfolio)
 
 A growing portfolio of reusable AI skills and workflows.
-
 
 ## Tools and platforms
 
