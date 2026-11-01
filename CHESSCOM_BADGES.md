@@ -10,9 +10,9 @@ Copy-ready badges for the `peteryzbruun` GitHub profile. The live badges use Shi
 
 The stats endpoint currently returns the fields used here: Rapid, Blitz, Bullet, Daily, and the highest puzzle rating. Ratings are public profile data; the requests need no account credentials.
 
-## Recommended compact set
+## Profile badge choices
 
-Rapid, Blitz, and Bullet make a compact profile row. Each badge displays the latest rating published for that time control.
+The profile README highlights Daily and puzzle peak because those are the modes Peter plays most. Puzzle is a peak rating, while Daily is the latest published rating. Rapid, Blitz, and Bullet are included below as alternate live rating badges.
 
 ```html
 <p>
@@ -28,9 +28,9 @@ For a static profile link with no API dependency:
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?logo=chessdotcom&logoColor=white)](https://www.chess.com/member/peteryzbruun)
 ```
 
-## Other time controls and puzzle peak
+## Rapid, Blitz, Bullet, and puzzle peak
 
-Add one or both when they are useful to visitors. Daily is the latest published Daily rating. Puzzle uses `tactics.highest.rating`, a peak value rather than a current game-mode rating.
+Use these if you want to feature other time controls. Puzzle uses `tactics.highest.rating`, a peak value rather than a current game-mode rating.
 
 ```markdown
 [![Chess.com Daily rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fpeteryzbruun%2Fstats&query=%24.chess_daily.last.rating&label=daily&logo=chessdotcom&logoColor=white&color=607D8B)](https://www.chess.com/member/peteryzbruun)
