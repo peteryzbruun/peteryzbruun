@@ -20,6 +20,17 @@ Building practical systems for AI-assisted productivity, digital workflows, auto
 - My creative interests include digital design, chess, and music production.
 - I am based in Copenhagen, Denmark.
 
+## Chess.com
+
+<p>
+  <a href="https://www.chess.com/member/peteryzbruun"><img alt="Chess.com Rapid rating" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fpeteryzbruun%2Fstats&query=%24.chess_rapid.last.rating&label=rapid&logo=chessdotcom&logoColor=white&color=81B64C" /></a>
+  <a href="https://www.chess.com/member/peteryzbruun"><img alt="Chess.com Blitz rating" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fpeteryzbruun%2Fstats&query=%24.chess_blitz.last.rating&label=blitz&logo=chessdotcom&logoColor=white&color=0096FF" /></a>
+  <a href="https://www.chess.com/member/peteryzbruun"><img alt="Chess.com Bullet rating" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fpeteryzbruun%2Fstats&query=%24.chess_bullet.last.rating&label=bullet&logo=chessdotcom&logoColor=white&color=E76F51" /></a>
+  <a href="https://www.chess.com/member/peteryzbruun"><img alt="Chess.com profile" src="https://img.shields.io/badge/Chess.com-81B64C?logo=chessdotcom&logoColor=white" /></a>
+</p>
+
+The live badges read public ratings from Chess.com's Published-Data API. [See the badge guide](CHESSCOM_BADGES.md) for copy-ready variants, Daily and puzzle peak badges, and troubleshooting.
+
 ## Public work
 
 ### [AI Skills Portfolio](https://github.com/peteryzbruun/pyzb-agent-skills-portfolio)
