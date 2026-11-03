@@ -68,3 +68,4 @@ A growing portfolio of reusable AI skills and workflows.
 - [peteryzbruun.online](https://peteryzbruun.online)
 - [All public repositories](https://github.com/peteryzbruun?tab=repositories)
 
+<a href="https://daily.dev/peteryzbruun"><img src="https://api.daily.dev/devcards/v2/P0z4WVQPqoUlv9OtCA1zo.png?type=wide&r=t80" width="652" alt="Peter Y.Z. Bruun's Dev Card"/></a>
