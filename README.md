@@ -15,6 +15,8 @@ Building practical systems for AI-assisted productivity, digital workflows, auto
 <a href="https://peteryzbruun.online"><img alt="Personal website" src="https://img.shields.io/badge/Website-peteryzbruun.online-F36263?style=for-the-badge&logo=safari&logoColor=white" /></a>
 <a href="https://github.com/peteryzbruun"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-peteryzbruun-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+![Status: active](https://img.shields.io/badge/status-active-brightgreen)
+
 </div>
 
 ## About me
