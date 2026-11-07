@@ -41,11 +41,7 @@ The live badges read public Daily and puzzle ratings from Chess.com's Published-
 
 ## Public work
 
-### [AI Skills Portfolio](https://github.com/peteryzbruun/pyzb-agent-skills-portfolio)
-
-A growing portfolio of reusable AI skills and workflows.
-
-[![pyzb-agent-skills-portfolio](https://img.shields.io/badge/pyzb--agent--skills--portfolio-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/pyzb-agent-skills-portfolio)
+[![pyzb-agent-skills-portfolio](https://img.shields.io/badge/pyzb--agent--skills--portfolio-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/pyzb-agent-skills-portfolio) - A growing portfolio of reusable AI skills and workflows.
 
 [![awesome-digital-toolbox](https://img.shields.io/badge/awesome--digital--toolbox-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/awesome-digital-toolbox)
 
