@@ -58,8 +58,7 @@ A growing portfolio of reusable AI skills and workflows.
 
 <p>
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-</p>
+  ![Perplexity](https://img.shields.io/badge/perplexity-%23000000.svg?style=for-the-badge&logo=perplexity&logoColor=088F8F)![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)![Raycast](https://img.shields.io/badge/raycast-%23FF6363?style=for-the-badge&logo=raycast&logoColor=F2F2F2)
 
 ### Design and productivity
 
