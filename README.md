@@ -1,5 +1,9 @@
 <p align="center">
-  <img alt="Abstract coral profile banner representing connected systems, music, design, and chess" src="./assets/profile-banner.jpg" width="100%" />
+  <img
+    src="./assets/profile-banner.jpg"
+    alt="Abstract green and black profile banner"
+    width="100%"
+  />
 </p>
 
 <div align="center">
