@@ -45,15 +45,15 @@ The live badges read public Daily and puzzle ratings from Chess.com's Published-
 
 A growing portfolio of reusable AI skills and workflows.
 
-[![pyzb-agent-skills-portfolio](https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/pyzb-agent-skills-portfolio)
+[![pyzb-agent-skills-portfolio](https://img.shields.io/badge/pyzb--agent--skills--portfolio-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/pyzb-agent-skills-portfolio)
 
-[![awesome-digital-toolbox](https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/awesome-digital-toolbox)
+[![awesome-digital-toolbox](https://img.shields.io/badge/awesome--digital--toolbox-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/awesome-digital-toolbox)
 
-[![github-profile-playbook](https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/github-profile-playbook)
+[![github-profile-playbook](https://img.shields.io/badge/github--profile--playbook-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/github-profile-playbook)
 
-[![digital-badges](https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/digital-badges)
+[![digital-badges](https://img.shields.io/badge/digital--badges-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/digital-badges)
 
-[![context-garden-kit](https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/context-garden-kit)
+[![context-garden-kit](https://img.shields.io/badge/context--garden--kit-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/context-garden-kit)
 
 
 
