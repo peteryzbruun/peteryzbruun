@@ -12,9 +12,8 @@
 
 Building practical systems for AI-assisted productivity, digital workflows, automation, and music production.
 
-<a href="https://peteryzbruun.online"><img alt="Personal website" src="https://img.shields.io/badge/Website-peteryzbruun.online-F36263?style=for-the-badge&logo=safari&logoColor=white" /></a>
-<a href="https://github.com/peteryzbruun"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-peteryzbruun-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
-
+[![GitHub Profile](https://img.shields.io/badge/peteryzbruun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peteryzbruun)
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-31311F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peteryzbruun?tab=repositories)
 ![Status: active](https://img.shields.io/badge/status-active-brightgreen)
 
 </div>
@@ -50,33 +49,70 @@ The live badges read public Daily and puzzle ratings from Chess.com's Published-
 | [![context-garden-kit](https://img.shields.io/badge/context--garden--kit-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/context-garden-kit) | Templates for organizing useful context for AI assistants while keeping personal information under your control. |
 ## Tools and platforms
 
-### Knowledge systems
+
+### Knowledge Systems
 
 <p>
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
 </p>
 
-### AI workflows
+**Homebase** — My personal knowledge and project management system, built around Markdown, files, and connected workflows.
+
+### AI & Automation
 
 <p>
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  ![Perplexity](https://img.shields.io/badge/perplexity-%23000000.svg?style=for-the-badge&logo=perplexity&logoColor=088F8F)![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)![Raycast](https://img.shields.io/badge/raycast-%23FF6363?style=for-the-badge&logo=raycast&logoColor=F2F2F2)
-
-### Design and productivity
-
-<p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="Raycast" src="https://img.shields.io/badge/Raycast-FF6363?style=for-the-badge&logo=raycast&logoColor=white" />
+  <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F" />
+  <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" />
 </p>
 
-## Current interests
 
-`AI agents` · `knowledge systems` · `automation` · `digital design` · `chess` · `music production`
+### Design & Productivity
+
+<p>
+  <a href="https://www.figma.com/">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+  <a href="https://www.raycast.com/">
+    <img alt="Raycast" src="https://img.shields.io/badge/Raycast-FF6363?style=for-the-badge&logo=raycast&logoColor=white" />
+  </a>
+  <a href="https://cleanshot.com/cloud">
+    <img alt="CleanShot Cloud" src="https://img.shields.io/badge/CleanShot_Cloud-171717?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
+  <a href="https://macosicons.com/">
+    <img alt="macOSicons" src="https://img.shields.io/badge/macOSicons-222222?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+<a href="https://wisprflow.ai/">
+  <img alt="Wispr Flow" src="https://img.shields.io/badge/Wispr_Flow-333333?style=for-the-badge&logoColor=white" />
+</a>
+</p>
+
+
+## Current Interests
+Chess, music production, portfolio and website creation, AI context engineering, shortcuts, and automations.
+
+
+## Personal Cataloging Ecosystem
+
+A collection of platforms I use to explore, organize, and document my interests in books, films, music, wine, design, and knowledge.
+
+[![Goodreads](https://img.shields.io/badge/Goodreads-1E1914?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/peteryzbruun)
+[![Vivino](https://img.shields.io/badge/Vivino-A61A30?style=for-the-badge&logo=vivino&logoColor=white)](https://www.vivino.com/users/peter.bruun10)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/peteryzbruun/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/peteryzbruun/)
+[![Ultimate Guitar](https://img.shields.io/badge/Ultimate_Guitar-FF6600?style=for-the-badge)](https://www.ultimate-guitar.com/u/natematicph)
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/User:Peteryzbruun)
+[![Genius](https://img.shields.io/badge/Genius-FFFF64?style=for-the-badge&logo=genius&logoColor=333333)](https://genius.com/natemati)
 
 ## Elsewhere
 
-- [peteryzbruun.online](https://peteryzbruun.online)
-- [All public repositories](https://github.com/peteryzbruun?tab=repositories)
+- [Personal Website](https://peteryzbruun.online)
+- [Public GitHub Repositories](https://github.com/peteryzbruun?tab=repositories)
+- [Awesome Digital Toolbox](https://github.com/peteryzbruun/awesome-digital-toolbox)
+
 
 <a href="https://daily.dev/peteryzbruun"><img src="https://api.daily.dev/devcards/v2/P0z4WVQPqoUlv9OtCA1zo.png?type=wide&r=t80" width="652" alt="Peter Y.Z. Bruun's Dev Card"/></a>
