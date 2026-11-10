@@ -42,7 +42,7 @@ The live badges read public Daily and puzzle ratings from Chess.com's Published-
 
 | Repository | Description |
 |---|---|
-| [![pyzb-agent-skills-portfolio](https://img.shields.io/badge/pyzb--agent--skills--portfolio-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/pyzb-agent-skills-portfolio) | A curated portfolio of reusable AI skills and workflows. |
+| [![pyzb-agent-skills-portfolio](https://img.shields.io/badge/pyzb--agent--skills--portfolio-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/pyzb-agent-skills-portfolio) | A portfolio in development for reusable AI skills and workflows; no skill packages have been published yet. |
 | [![awesome-digital-toolbox](https://img.shields.io/badge/awesome--digital--toolbox-100000?style=flat-square&logo=awesomelists&logoColor=white)](https://github.com/peteryzbruun/awesome-digital-toolbox)| A curated collection of digital tools, apps, platforms, and resources for creating, building, learning, and getting things done. |
 | [![github-profile-playbook](https://img.shields.io/badge/github--profile--playbook-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/github-profile-playbook) | A planned hands-on guide to building a GitHub profile README while learning GitHub basics. |
 | [![digital-badges](https://img.shields.io/badge/digital--badges-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/peteryzbruun/digital-badges) | Badge examples for GitHub profiles and other digital spaces. |
@@ -90,10 +90,6 @@ The live badges read public Daily and puzzle ratings from Chess.com's Published-
   <img alt="Wispr Flow" src="https://img.shields.io/badge/Wispr_Flow-333333?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-
-
-## Current Interests
-Chess, music production, portfolio and website creation, AI context engineering, shortcuts, and automations.
 
 
 ## Personal Cataloging Ecosystem
